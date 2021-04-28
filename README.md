@@ -1,6 +1,6 @@
 ### Hi! 😁 
 
-My name is Pedro Paulo Carvalho from Brazil (🇧🇷). I work as an SRE intern at [Livelo](https://www.livelo.com.br), I study computer science. I'm entering the world of programming. I am currently studying JavaScript.
+My name is Pedro Paulo Carvalho from Brazil (🇧🇷). I work as an SRE (Site Reliability Engineer) intern at [Livelo](https://www.livelo.com.br), I study computer science. I'm entering the world of programming. I am currently studying JavaScript.
 
 In my free time I like to play basketball (🏀), to watch movies (🎞️) and series (📺) and to listen to music (🎵).
 
