@@ -1,6 +1,6 @@
 ### Hi! 😁 
 
-My name is Pedro Paulo Carvalho from Brazil (🇧🇷). I work as an SRE (Site Reliability Engineer) intern at [Neon](https://neon.com.br/), I study computer science. I'm entering the world of programming. I am currently studying Python.
+My name is Pedro Paulo Carvalho from Brazil (🇧🇷). I work as an SRE (Site Reliability Engineer) and DevOps Engineer, I study computer science. I'm entering the world of programming.
 
 In my free time I like to play basketball (🏀), to watch movies (🎞️) and series (📺) and to listen to music (🎵).
 
